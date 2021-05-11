@@ -84,4 +84,6 @@ for i in range(len(max(some_text,key=len))):
             new_list.append(el[i])
     final_list.append(''.join(new_list).rstrip())
 
-print(final_list)
+#print(final_list)
+
+
